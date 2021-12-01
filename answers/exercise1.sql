@@ -1,1 +1,1 @@
-CREATE myNewDB
+CREATE myNewDB;
